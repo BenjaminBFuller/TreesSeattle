@@ -16,10 +16,10 @@ An [exceptional](https://www.seattle.gov/Documents/Departments/UrbanForestryComm
 - 2. Is rare or exceptional by virtue of its size, species, condition, cultural/historic importance, age, and/or contribution as part of grove of trees as determined by the method discussed below.
 
 ## GSI
-The (Green Street Initiative (GSI))[https://streetsillustrated.seattle.gov/urban-design/green-streets/] creates Green Streets, a land use code designation, which are "designed to give priority to pedestrian circulation and open space over other transportation uses."
+The [Green Street Initiative (GSI)](https://streetsillustrated.seattle.gov/urban-design/green-streets/) creates Green Streets, a land use code designation, which are "designed to give priority to pedestrian circulation and open space over other transportation uses."
 
 ## Green Factor
-Trees with this attribute are part of the (Seattle Green Factor)[https://www.seattle.gov/sdci/codes/codes-we-enforce-(a-z)/seattle-green-factor], "a score-based code requirement that increases the amount of and improves the quality of landscaping in new development. Landscaping plays an important role in how new development looks and functions. Well-designed landscaping:
+Trees with this attribute are part of the [Seattle Green Factor](https://www.seattle.gov/sdci/codes/codes-we-enforce-(a-z)/seattle-green-factor), "a score-based code requirement that increases the amount of and improves the quality of landscaping in new development. Landscaping plays an important role in how new development looks and functions. Well-designed landscaping:
 
 - Improves the look and feel of a neighborhood
 - Reduces stormwater runoff
