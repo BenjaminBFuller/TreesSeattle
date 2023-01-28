@@ -34,7 +34,7 @@ Trees with this attribute are part of the [Seattle Green Factor](https://www.sea
 - Supports adjacent businesses
 - Decreases crime"
 
-Seen below is the mapping of the 3,129 trees marked as Significant:
+Seen below is the mapping of the 3,129 trees marked as "Significant" within Seattle:
 ![Tree Points](Tree_Points.png)
 
 A report on the population of significant trees per the seven Seattle [council districts](https://www.seattle.gov/neighborhoods/neighborhoods-and-districts):
