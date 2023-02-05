@@ -5,7 +5,7 @@ In Seattle, there are over 170,000 trees formally marked in the public right of 
 - GSI
 - Green Factor
 
-Trees are very important to our ecosystem, capturing and filtering stormwater runoff, reducing harmful pollutants, providing shade and mitigating summer air temperatures, and improving physical and mental health benifits, just to name a few things. For the sake of this project, a tree in the public right of way that is marked as one or more of these categories is classified as "Significant". To all the other hundreds of thousands of trees: you are special in your own way.
+Trees are very important to our ecosystem, capturing and filtering stormwater runoff, reducing harmful pollutants, providing shade and mitigating summer air temperatures, and providing physical and mental health benefits, just to name a few things. For the sake of this project, a tree in the public right of way that is marked as one or more of these categories is classified as "Significant". To all the other hundreds of thousands of trees: you are special in your own way.
 
 ## Heritage
 A tree part of the [Heritage Tree Program](https://www.seattle.gov/transportation/projects-and-programs/programs/trees-and-landscaping-program/heritage-tree-program). "Heritage trees may be on either City or private property. Each candidate tree is assessed by a certified arborist and evaluated by a review committee. Trees can be nominated as an individual or a collection, but must have the owner's approval and meet criteria for health in addition to being selected according to one of the following categories:
