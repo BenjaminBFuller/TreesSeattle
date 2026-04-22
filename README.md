@@ -8,7 +8,8 @@ In Seattle, there are over 170,000 trees formally marked in the public right of 
 Trees are very important to our ecosystem, capturing and filtering stormwater runoff, reducing harmful pollutants, providing shade and mitigating summer air temperatures, and providing physical and mental health benefits, just to name a few things. For the sake of this project, a tree in the public right of way that is marked as one or more of these categories is classified as "Significant". To all the other hundreds of thousands of trees: you are special in your own way.
 
 ## Heritage
-A tree part of the [Heritage Tree Program](https://www.seattle.gov/transportation/projects-and-programs/programs/trees-and-landscaping-program/heritage-tree-program). "Heritage trees may be on either City or private property. Each candidate tree is assessed by a certified arborist and evaluated by a review committee. Trees can be nominated as an individual or a collection, but must have the owner's approval and meet criteria for health in addition to being selected according to one of the following categories:
+A tree part of the [Heritage Tree Program](https://www.seattle.gov/transportation/projects-and-programs/programs/trees-and-landscaping-program/heritage-tree-program). 
+"Heritage trees may be on either City or private property. Each candidate tree is assessed by a certified arborist and evaluated by a review committee. Trees can be nominated as an individual or a collection, but must have the owner's approval and meet criteria for health in addition to being selected according to one of the following categories:
 
 - Specimen: A tree of exceptional size, form, or rarity.
 - Historic: A tree recognized by virtue of its age, its association with or contribution to a historic structure or district, or its association with a noted person or historic event.
@@ -25,7 +26,8 @@ A tree part of the [Heritage Tree Program](https://www.seattle.gov/transportatio
 The [Green Street Initiative (GSI)](https://streetsillustrated.seattle.gov/urban-design/green-streets/) creates Green Streets, a land use code designation, which are "designed to give priority to pedestrian circulation and open space over other transportation uses."
 
 ## Green Factor
-Trees with this attribute are part of the [Seattle Green Factor](https://www.seattle.gov/sdci/codes/codes-we-enforce-(a-z)/seattle-green-factor), "a score-based code requirement that increases the amount of and improves the quality of landscaping in new development. Landscaping plays an important role in how new development looks and functions. Well-designed landscaping:
+Trees with this attribute are part of the [Seattle Green Factor](https://www.seattle.gov/sdci/codes/codes-we-enforce-(a-z)/seattle-green-factor),
+"a score-based code requirement that increases the amount of and improves the quality of landscaping in new development. Landscaping plays an important role in how new development looks and functions. Well-designed landscaping:
 
 - Improves the look and feel of a neighborhood
 - Reduces stormwater runoff
