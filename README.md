@@ -1,4 +1,4 @@
-# Trees of Significance in Seattle
+# Urban Forest Significance Classification in Seattle
 In Seattle, there are over 170,000 trees formally marked in the public right of way. Trees in the Seattle trees public data set contain [attributes](https://www.seattle.gov/Documents/Departments/SDOT/GIS/Trees_OD.pdf) as metadata, providing descriptors and pertinent information to the public, such as location, age, and species. As of January 2023, 3,129 of the marked trees in Seattle are categorized as 1 of the 4 attributes:
 - Heritage
 - Exceptional
